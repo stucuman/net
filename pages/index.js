@@ -7,9 +7,9 @@ const Home = () => (
     </Head>
     <h1>
       Next.js on the <a href="https://jamstack.org">Jamstack</a>
-    </h1>
+    
 
-    <h3>
+   
       <a href="http://lacritica.com.ar">noticias de tucuman</a>  
  <a href="https://lacritica.com.ar/clima-en-tucuman/">Clima en Tucuman</a>  
  ceferino decima  
@@ -65,7 +65,7 @@ const Home = () => (
  <a href="https://lacritica.com.ar/2021/05/16/barbie-beltramino/">Barbie Beltramino</a>  
  <a href="https://ar.pinterest.com/LACRITICAok">pinterest</a>  
 
-    /h3>
+ </h1>
 
     <style jsx>{`
       :global(html, body) {
