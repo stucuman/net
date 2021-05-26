@@ -6,7 +6,6 @@ const Home = () => (
       <title>Next.js on the Jamstack with Netlify!</title>
     </Head>
     <h1>
-      Next.js on the <a href="https://jamstack.org">Jamstack</a>
     
 
    
@@ -65,7 +64,7 @@ const Home = () => (
  <a href="https://lacritica.com.ar/2021/05/16/barbie-beltramino/">Barbie Beltramino</a>  
  <a href="https://ar.pinterest.com/LACRITICAok">pinterest</a>  
 
- </h1>
+      </h1>
 
     <style jsx>{`
       :global(html, body) {
