@@ -65,7 +65,7 @@ const Home = () => (
  <a href="https://lacritica.com.ar/2021/05/16/barbie-beltramino/">Barbie Beltramino</a>  
  <a href="https://ar.pinterest.com/LACRITICAok">pinterest</a>  
 
-    </h3>
+    /h3>
 
     <style jsx>{`
       :global(html, body) {
