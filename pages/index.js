@@ -1,7 +1,7 @@
 import Head from 'next/head';
 
 const Home = () => (
-  <div>
+  
     <Head>
       <title>Next.js on the Jamstack with Netlify!</title>
     </Head>
@@ -100,7 +100,7 @@ const Home = () => (
         padding: 0 32px;
       }
     `}</style>
-  </div>
+  
 );
 
 export default Home;
