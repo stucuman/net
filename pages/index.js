@@ -50,12 +50,14 @@ const Home = () => (
  <a href="https://images.google.co.jp/url?q=https://lacritica.com.ar/">tucuman</a>
  <a href="https://images.google.co.jp/url?q=https://proyectoasistir.com.ar">piscologo online</a>  
  <a href="https://images.google.es/url?q=https://lacritica.com.ar/">ultimo momento tucuman</a>
- <a href="https://www.ted.com/profiles/28003350">TED  
- <a href="https://people.mozilla.org/p/sebasg">Mozilla  
+ <a href="https://www.ted.com/profiles/28003350">TED  </a>
+ 
+ <a href="https://people.mozilla.org/p/sebasg">Mozilla</a>
+ 
  <a href="https://www.google.es/url?q=https://lacritica.com.ar/"> ricardo bussi </a>  
  <a href="https://spark.adobe.com/page/QGyPFWsmiJCTK/">adobe </a>  
  <a href="marketingdigitalexperience.com/curso-de-marketing-digital/">curso de marketing digital </a>  
- <a href="https://huffduffer.com/sebasg/610279">huffduffer  
+ <a href="https://huffduffer.com/sebasg/610279">huffduffer </a> 
  <a href="https://spacebabe.ams3.digitaloceanspaces.com/index.html">Spaces babe</a>  
  <a href="https://epaepa.oss-ap-northeast-1.aliyuncs.com/index.html">Epaepadiscoestepa</a>  
  <a href="https://bit.ly/3eLLr0v">bitly</a>  
